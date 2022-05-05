@@ -12,11 +12,10 @@ module.exports = {
 	"ignorePatterns": [
         "node_modules/**",
         "dist/**",
-        ".eslintrc.cjs",
-        "lib/server/migrations/create-portals.js",
     ],
     "parserOptions": {
-    	"ecmaVersoin": "latest",
+        "sourceType": "module",
+    	"ecmaVersion": "latest",
     },
     "rules": {
         "no-unused-vars": ["error", {
