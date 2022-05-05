@@ -1,6 +1,6 @@
 {
   "name": "@whisthub/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Default eslint configuration used at Whisthub",
   "main": "index.js",
   "scripts": {
