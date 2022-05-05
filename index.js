@@ -12,6 +12,7 @@ module.exports = {
 	"ignorePatterns": [
         "node_modules/**",
         "dist/**",
+        ".eslintrc.cjs",
     ],
     "parserOptions": {
         "sourceType": "module",
