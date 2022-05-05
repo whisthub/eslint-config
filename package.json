@@ -1,0 +1,23 @@
+{
+  "name": "@whisthub/eslint-config",
+  "version": "1.0.0",
+  "description": "Default eslint configuration used at Whisthub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whisthub/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "whisthub"
+  ],
+  "author": "Sebastiaan Marynissen <sebastiaan@whisthub.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whisthub/eslint-config/issues"
+  },
+  "homepage": "https://github.com/whisthub/eslint-config#readme"
+}
