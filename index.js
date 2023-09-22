@@ -1,10 +1,9 @@
 module.exports = {
 	"env": {
 		"browser": true,
-		"commonjs": true,
-		"es2020": true,
 		"node": true,
 		"mocha": true,
+		"es2022": true,
 	},
 	"extends": [
 		"eslint:recommended",
